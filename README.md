@@ -22,7 +22,7 @@ In this project, when we run the test script then the Google chrome browser will
 
 So, first is the integration of java with selenium and we have three agenda here firstly the installation of software of Java Eclipse and selenium. Secondly, we would run the test case and finally we will see each test case that has been executed.
 
-**Implementation: **
+**Implementation:**
 
 I started with integrating the different software’s so the first and foremost thing here is we need to create a workspace in a local system where our files and all the progress will be stored of Eclipse IDE. Next open Eclipse IDE choose and browse the location of workspace then it will load the workbench. After all this we create a new Java project and name it as ‘CA650Assignment’ and ensure that jre environment is of java. And now we have jar files of selenium which we have to import it to the project so for this we go to ‘configure build path’ and in libraries we select ‘add external jars’ so in this we upload selenium server standalone and the other one which we have to upload is zip folder which has the library folder. So after adding external jar files we notice that a new sub-folder named ‘referenced libraries’ has been added in our ‘CA650Assignment’ and in this referenced libraries we have selenium jar file and zip file so in this we can see that all jar files the library folder has been imported. Next I need the chrome driver as well, so I have created a sub folder in ‘CA650Assignment’ as ‘drivers’ and this folder is for chrome driver next I just simply copy and paste the chrome driver here in this folder. So, till here we’ve integrated selenium and chrome drive driver with a java project.
 
