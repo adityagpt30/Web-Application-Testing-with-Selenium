@@ -20,7 +20,7 @@ In this project, when we run the test script then the Google chrome browser will
 
 **Implementation of Java Selenium**
 
-So, first is the integration of java with selenium and we have three agenda here firstly the installation of software of Java Eclipse and selenium. Secondly, we would run the test case and finally we will see each test case that has been executed.
+So, first is the integration of java with selenium and we have three agenda here firstly the installation of software of Java Eclipse and selenium. Secondly we would run the test case and finally we will see each test case that has been executed.
 
 **Implementation:**
 
